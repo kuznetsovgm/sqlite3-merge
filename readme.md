@@ -1,4 +1,4 @@
-# Join databases
+# Merge sqlite3 databases into new one
 
 Copies tables from multiple sqlite databases into one.
 
